@@ -1,2 +1,2 @@
 # Registartion
-Flask aplication, Registration andAuthentication
+Flask aplication, Registration and Authentication
